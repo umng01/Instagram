@@ -1,0 +1,1 @@
+This is an Instagram clone, created using ReactJs and an API. You can scroll stories and latest posts, and when you switch to another user, you'll be able to see the latest posts with different styles and images. Thanks!
